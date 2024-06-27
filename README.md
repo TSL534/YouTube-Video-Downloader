@@ -1,2 +1,5 @@
 # YouTube-Video-Downloader
-A YouTube Video Downloader using moviepy 
+Downlode all Files 
+Run  pip install tkinter ttkbootstrap pytube moviepy in your Consol
+Then run python main.py
+
