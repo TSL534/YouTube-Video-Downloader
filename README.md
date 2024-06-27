@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
 Downlode all Files 
-Run  pip install tkinter ttkbootstrap pytube moviepy in your Consol
+Install all packets
 Then run python main.py in your consol
 
